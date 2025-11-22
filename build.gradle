@@ -5,6 +5,9 @@ plugins {
     id 'kotlin-parcelize'
 }
 
+group = "com.github.Tripian-inc"
+version = "1.0.1" 
+
 android {
     namespace 'com.tripian.gyg'
     compileSdk = 35
